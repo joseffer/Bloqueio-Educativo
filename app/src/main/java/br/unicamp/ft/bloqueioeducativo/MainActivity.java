@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     // Used to load the 'native-lib' library on application startup.
 
     //criação do bloqueio educativo, Jow, vamos trabalhar nessa birosca
-    //testar primeiro commit
+    //testar commit no gitHub
 
     static {
         System.loadLibrary("native-lib");
